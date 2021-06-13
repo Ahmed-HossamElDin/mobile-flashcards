@@ -1,7 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-import * as Notifications from "expo-notifications";
-
 const NOTIFICATION_KEY = "udaciFlashcards:notifications";
 
 const titleText = "Its Quiz Time!";
